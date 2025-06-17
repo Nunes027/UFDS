@@ -2,7 +2,7 @@
 Project
 
 UrbanFlow Dynamics System (UFDS): Controle Semafórico Inteligente e Adaptativo
-O UFDS é um sistema de controle de tráfego de vanguarda, projetado para substituir os ciclos semafóricos fixos por uma gestão dinâmica e responsiva. Utilizando uma arquitetura multicamadas que integra sensores avançados, Inteligência Artificial (IA) e algoritmos de otimização, o UFDS visa minimizar congestionamentos, reduzir tempos de viagem, aumentar a segurança e melhorar a eficiência do transporte público e de emergência.
+O UFDS é um sistema de controle de tráfego em tempo real, projetado para substituir os ciclos semafóricos fixos por uma gestão dinâmica e responsiva. Utilizando uma arquitetura multicamadas que integra sensores avançados, Inteligência Artificial (IA) e algoritmos de otimização, o UFDS visa minimizar congestionamentos, reduzir tempos de viagem, aumentar a segurança e melhorar a eficiência do transporte público e de emergência.
 
 ---------------------------------------------------------------------------------
 
